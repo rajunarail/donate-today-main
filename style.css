@@ -1,0 +1,62 @@
+.parent-div{
+    background-image: url(donation1.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size:100% 100%;
+padding: 250px;
+
+}
+.pictur-text{
+width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-size:20px;
+}
+.link-button{
+    text-decoration: none;
+    
+    background-color: orange;
+
+    padding: 10px 10px;
+    font-weight: 900;
+    border-radius: 10px;
+
+    
+}
+.color{
+   font-weight: bolder;
+    color: white;
+}
+.donate{
+    display: flex;
+    margin: auto;
+    justify-content:space-around;
+    width:800px;
+
+        border:none;
+        padding: 20px;
+      }
+
+}
+
+   
+   
+.box-apply{
+
+padding: 30px;
+    }
+
+    #red{
+
+
+        font-weight: 700;
+        border: 2px solid red;
+        background-color:rgb(228, 161, 161);
+        
+    
+    }
+   
+    
+    .button{
+        border: none;
+    }
