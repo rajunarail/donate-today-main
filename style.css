@@ -20,7 +20,7 @@ width: 80%;
     padding: 10px 10px;
     font-weight: 900;
     border-radius: 10px;
-
+ border: none;
     
 }
 .color{
@@ -37,7 +37,7 @@ width: 80%;
         padding: 20px;
       }
 
-}
+
 
    
    
@@ -51,7 +51,7 @@ padding: 30px;
 
         font-weight: 700;
         border: 2px solid red;
-        background-color:rgb(228, 161, 161);
+        background-color:rgb(248, 239, 239);
         
     
     }
