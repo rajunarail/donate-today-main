@@ -85,3 +85,14 @@ padding: 30px;
       .text-control{
         padding: 15px;
       }
+      .foot{
+        background-color:black;
+        position: absolute;
+        height: 100px; width: 100%;
+      }
+      .foot-text{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+      }
