@@ -60,3 +60,28 @@ padding: 30px;
     .button{
         border: none;
     }
+.background-1{
+    background-color: rgb(241, 220, 234);
+    width: 30%;
+}
+.background-2{
+    background-color: rgb(224, 235, 235);
+    width: 30%;
+}
+.background-3{
+    background-color: rgb(227, 235, 208);
+    width: 30%;
+
+}
+.donate-1{
+    display: flex;
+    margin: auto;
+    justify-content:space-around;
+    width:70%;
+
+        border:none;
+        padding: 20px;
+      }
+      .text-control{
+        padding: 15px;
+      }
