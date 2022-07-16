@@ -111,6 +111,16 @@ padding: 30px;
         
             
         }
+    
+.footer-up{
+    background-color: lemonchiffon;
+    width: 600px;height: 100px;
+    margin: auto;
+    text-align:center;
+}
+.footer-up1{
+    padding-top: 35px;
+}
 
        
         .foot{
