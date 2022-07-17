@@ -96,6 +96,9 @@ padding: 30px;
         .half-width{
             width:40%;
             padding: 60px;
+            .half-width img{
+            width: 100%;
+            }
            
         
         }
@@ -125,6 +128,9 @@ padding: 30px;
 .subscribe{
     
     background-color: orange;
+    text-decoration: none;
+            color: white;
+            font-weight: 700;
     
 
 }
