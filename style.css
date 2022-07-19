@@ -36,6 +36,7 @@ width: 80%;
 
         border:none;
         padding: 20px;
+        font: size 25px; ;
       }
 
 
@@ -95,10 +96,11 @@ padding: 30px;
         }
         .half-width{
             width:40%;
-            padding: 60px;
-            .half-width img{
+                padding: 60px;}
+
+            half-width img{
             width: 100%;
-            }
+            
            
         
         }
